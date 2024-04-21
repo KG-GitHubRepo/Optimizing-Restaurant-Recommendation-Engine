@@ -1,0 +1,1001 @@
+User_ID,Age_Group,Preferred_Cuisine,Last_Visited_Restaurant,Recommendation_Clicked,Reservation_Made,Visit_Rating
+A001,36-45,Chinese,Ocean Bites,Yes,Yes,3.4
+A002,36-45,Italian,Elite Eatery,No,No,NA
+A003,36-45,Mexican,Spicy Affair,Yes,No,NA
+A004,46-55,North Indian,Curry Corner,Yes,No,NA
+A005,36-45,North Indian,Pasta Palace,Yes,No,NA
+A006,36-45,Italian,Pasta Palace,No,No,NA
+A007,46-55,North Indian,Bella Italia,No,No,NA
+A008,18-25,Vegan,Dragon Bowl,Yes,Yes,4.9
+A009,55+,North Indian,Elite Eatery,No,No,NA
+A010,55+,Mexican,Bella Italia,Yes,No,NA
+A011,46-55,Italian,Curry Corner,No,No,NA
+A012,55+,Chinese,Ocean Bites,Yes,Yes,3.1
+A013,18-25,Continental,Curry Corner,Yes,Yes,3.9
+A014,18-25,Continental,Curry Corner,No,No,NA
+A015,55+,Vegan,Ocean Bites,No,No,NA
+A016,18-25,Mexican,Spicy Affair,No,No,NA
+A017,36-45,Continental,Bella Italia,Yes,Yes,4.4
+A018,46-55,Mexican,Taco Town,Yes,No,NA
+A019,36-45,Chinese,Taco Town,Yes,Yes,3.9
+A020,55+,North Indian,Bella Italia,Yes,Yes,3.7
+A021,18-25,Continental,Curry Corner,Yes,Yes,4
+A022,55+,Seafood,Ocean Bites,No,No,NA
+A023,26-35,Vegan,Elite Eatery,Yes,No,NA
+A024,55+,Italian,Bella Italia,No,No,NA
+A025,26-35,Seafood,Fishy Feast,Yes,No,NA
+A026,18-25,Mexican,Curry Corner,No,No,NA
+A027,26-35,North Indian,Bella Italia,Yes,No,NA
+A028,55+,Mexican,Fishy Feast,No,No,NA
+A029,26-35,Mexican,Bella Italia,Yes,No,NA
+A030,18-25,Continental,Curry Corner,Yes,No,NA
+A031,26-35,Continental,Taco Town,No,No,NA
+A032,55+,North Indian,Dragon Bowl,Yes,Yes,4.1
+A033,18-25,North Indian,Bella Italia,No,No,NA
+A034,26-35,North Indian,Bella Italia,Yes,Yes,3.9
+A035,55+,Chinese,Spicy Affair,Yes,No,NA
+A036,46-55,Italian,Dragon Bowl,Yes,No,NA
+A037,26-35,Chinese,Curry Corner,No,No,NA
+A038,46-55,Mexican,Green Gardens,No,No,NA
+A039,36-45,Chinese,Fishy Feast,No,No,NA
+A040,55+,Mexican,Taco Town,No,No,NA
+A041,26-35,Italian,Bella Italia,No,No,NA
+A042,26-35,Continental,Pasta Palace,Yes,Yes,5
+A043,36-45,Italian,Bella Italia,Yes,Yes,3.6
+A044,18-25,Italian,Curry Corner,No,No,NA
+A045,55+,Italian,Spicy Affair,Yes,No,NA
+A046,26-35,Italian,Taco Town,No,No,NA
+A047,18-25,Italian,Ocean Bites,Yes,No,NA
+A048,26-35,North Indian,Curry Corner,Yes,No,NA
+A049,55+,Italian,Spicy Affair,No,No,NA
+A050,26-35,Vegan,Dragon Bowl,Yes,Yes,3.2
+A051,18-25,Chinese,Taco Town,No,No,NA
+A052,46-55,Italian,Ocean Bites,No,No,NA
+A053,18-25,Vegan,Dragon Bowl,Yes,Yes,3.1
+A054,46-55,Seafood,Taco Town,Yes,No,NA
+A055,46-55,Seafood,Spicy Affair,Yes,Yes,3.5
+A056,18-25,Seafood,Bella Italia,Yes,Yes,3.3
+A057,46-55,Mexican,Elite Eatery,No,No,NA
+A058,26-35,Italian,Dragon Bowl,No,No,NA
+A059,46-55,Chinese,Pasta Palace,No,No,NA
+A060,36-45,Vegan,Curry Corner,No,No,NA
+A061,26-35,Mexican,Fishy Feast,No,No,NA
+A062,46-55,Chinese,Pasta Palace,Yes,Yes,4.9
+A063,46-55,Chinese,Green Gardens,Yes,No,NA
+A064,18-25,Chinese,Ocean Bites,No,No,NA
+A065,26-35,Vegan,Bella Italia,No,No,NA
+A066,26-35,Mexican,Fishy Feast,No,No,NA
+A067,55+,North Indian,Elite Eatery,No,No,NA
+A068,46-55,Vegan,Green Gardens,Yes,Yes,3.1
+A069,55+,Mexican,Pasta Palace,Yes,No,NA
+A070,26-35,North Indian,Green Gardens,No,No,NA
+A071,46-55,Italian,Fishy Feast,Yes,No,NA
+A072,26-35,Seafood,Fishy Feast,Yes,Yes,3.8
+A073,46-55,Mexican,Curry Corner,No,No,NA
+A074,46-55,Italian,Taco Town,Yes,Yes,3.4
+A075,26-35,Mexican,Bella Italia,No,No,NA
+A076,46-55,Vegan,Ocean Bites,No,No,NA
+A077,55+,Continental,Elite Eatery,No,No,NA
+A078,46-55,North Indian,Spicy Affair,No,No,NA
+A079,18-25,Continental,Bella Italia,No,No,NA
+A080,55+,North Indian,Fishy Feast,No,No,NA
+A081,26-35,Vegan,Elite Eatery,No,No,NA
+A082,26-35,North Indian,Spicy Affair,No,No,NA
+A083,55+,Mexican,Pasta Palace,No,No,NA
+A084,55+,Continental,Taco Town,Yes,Yes,3.3
+A085,46-55,North Indian,Bella Italia,No,No,NA
+A086,55+,Italian,Dragon Bowl,Yes,Yes,3
+A087,46-55,Continental,Green Gardens,No,No,NA
+A088,36-45,Mexican,Ocean Bites,Yes,No,NA
+A089,55+,Italian,Elite Eatery,No,No,NA
+A090,18-25,Continental,Dragon Bowl,No,No,NA
+A091,18-25,Vegan,Fishy Feast,No,No,NA
+A092,46-55,Continental,Elite Eatery,Yes,Yes,4.3
+A093,46-55,Italian,Fishy Feast,No,No,NA
+A094,36-45,Continental,Green Gardens,No,No,NA
+A095,55+,Seafood,Spicy Affair,Yes,No,NA
+A096,36-45,Continental,Bella Italia,Yes,Yes,4.1
+A097,26-35,Mexican,Green Gardens,Yes,Yes,3.6
+A098,18-25,Chinese,Green Gardens,Yes,Yes,4.5
+A099,36-45,Chinese,Pasta Palace,Yes,Yes,3.2
+A100,55+,North Indian,Green Gardens,No,No,NA
+A101,36-45,Continental,Dragon Bowl,Yes,No,NA
+A102,36-45,Continental,Dragon Bowl,No,No,NA
+A103,18-25,Italian,Green Gardens,No,No,NA
+A104,36-45,Vegan,Dragon Bowl,No,No,NA
+A105,18-25,Mexican,Dragon Bowl,No,No,NA
+A106,46-55,Chinese,Elite Eatery,Yes,No,NA
+A107,55+,Seafood,Bella Italia,No,No,NA
+A108,36-45,Seafood,Fishy Feast,Yes,Yes,3.7
+A109,36-45,Vegan,Pasta Palace,Yes,Yes,3.4
+A110,46-55,North Indian,Spicy Affair,No,No,NA
+A111,36-45,Italian,Elite Eatery,No,No,NA
+A112,18-25,North Indian,Green Gardens,Yes,No,NA
+A113,36-45,Mexican,Curry Corner,No,No,NA
+A114,46-55,Mexican,Curry Corner,Yes,Yes,4.7
+A115,18-25,Chinese,Fishy Feast,Yes,Yes,4.5
+A116,36-45,Chinese,Green Gardens,No,No,NA
+A117,18-25,Seafood,Spicy Affair,No,No,NA
+A118,26-35,Chinese,Fishy Feast,Yes,No,NA
+A119,55+,North Indian,Taco Town,No,No,NA
+A120,46-55,Vegan,Spicy Affair,Yes,Yes,3.2
+A121,18-25,North Indian,Dragon Bowl,No,No,NA
+A122,36-45,Chinese,Taco Town,No,No,NA
+A123,18-25,Chinese,Dragon Bowl,No,No,NA
+A124,55+,North Indian,Spicy Affair,Yes,Yes,4.1
+A125,55+,North Indian,Green Gardens,Yes,Yes,3.5
+A126,46-55,North Indian,Elite Eatery,Yes,No,NA
+A127,18-25,Italian,Bella Italia,Yes,Yes,4.6
+A128,36-45,Chinese,Bella Italia,Yes,No,NA
+A129,55+,Italian,Fishy Feast,No,No,NA
+A130,46-55,Seafood,Fishy Feast,No,No,NA
+A131,36-45,Vegan,Spicy Affair,Yes,Yes,4.1
+A132,18-25,Continental,Green Gardens,Yes,Yes,4.2
+A133,55+,Seafood,Dragon Bowl,Yes,Yes,3.7
+A134,36-45,North Indian,Spicy Affair,Yes,No,NA
+A135,36-45,Seafood,Pasta Palace,No,No,NA
+A136,18-25,North Indian,Elite Eatery,Yes,No,NA
+A137,36-45,Continental,Taco Town,Yes,No,NA
+A138,55+,Chinese,Taco Town,Yes,Yes,3.3
+A139,36-45,Vegan,Elite Eatery,Yes,Yes,4.9
+A140,46-55,Continental,Taco Town,No,No,NA
+A141,46-55,North Indian,Fishy Feast,No,No,NA
+A142,55+,Seafood,Green Gardens,Yes,No,NA
+A143,46-55,Seafood,Taco Town,No,No,NA
+A144,18-25,Chinese,Fishy Feast,No,No,NA
+A145,46-55,Continental,Pasta Palace,Yes,Yes,4.7
+A146,46-55,North Indian,Taco Town,Yes,Yes,3.4
+A147,26-35,Vegan,Ocean Bites,Yes,No,NA
+A148,36-45,Italian,Dragon Bowl,No,No,NA
+A149,46-55,North Indian,Pasta Palace,No,No,NA
+A150,36-45,Continental,Pasta Palace,No,No,NA
+A151,36-45,Continental,Ocean Bites,No,No,NA
+A152,26-35,Continental,Green Gardens,No,No,NA
+A153,55+,Mexican,Pasta Palace,No,No,NA
+A154,36-45,Continental,Bella Italia,Yes,Yes,4.3
+A155,36-45,North Indian,Green Gardens,Yes,Yes,4.8
+A156,36-45,Mexican,Dragon Bowl,No,No,NA
+A157,26-35,Chinese,Spicy Affair,No,No,NA
+A158,26-35,North Indian,Spicy Affair,Yes,Yes,3.5
+A159,18-25,Mexican,Green Gardens,Yes,Yes,5
+A160,18-25,Mexican,Bella Italia,Yes,Yes,4.6
+A161,46-55,North Indian,Bella Italia,No,No,NA
+A162,46-55,Chinese,Pasta Palace,No,No,NA
+A163,46-55,Vegan,Dragon Bowl,Yes,Yes,3.1
+A164,55+,Chinese,Spicy Affair,Yes,Yes,3.2
+A165,26-35,Italian,Spicy Affair,No,No,NA
+A166,46-55,Seafood,Spicy Affair,No,No,NA
+A167,26-35,Chinese,Curry Corner,Yes,Yes,4.8
+A168,55+,Continental,Elite Eatery,No,No,NA
+A169,26-35,Mexican,Fishy Feast,No,No,NA
+A170,18-25,Mexican,Pasta Palace,No,No,NA
+A171,26-35,Mexican,Green Gardens,No,No,NA
+A172,46-55,Seafood,Elite Eatery,Yes,Yes,3.6
+A173,18-25,North Indian,Green Gardens,No,No,NA
+A174,46-55,North Indian,Bella Italia,Yes,Yes,4.2
+A175,18-25,North Indian,Fishy Feast,Yes,Yes,3.9
+A176,26-35,Seafood,Bella Italia,Yes,Yes,4.5
+A177,26-35,Continental,Curry Corner,Yes,Yes,3.1
+A178,46-55,Seafood,Spicy Affair,No,No,NA
+A179,26-35,Italian,Bella Italia,No,No,NA
+A180,18-25,Seafood,Ocean Bites,Yes,Yes,3.5
+A181,46-55,Mexican,Pasta Palace,Yes,Yes,3.4
+A182,55+,Mexican,Elite Eatery,No,No,NA
+A183,36-45,Italian,Taco Town,Yes,Yes,3.9
+A184,26-35,Italian,Ocean Bites,No,No,NA
+A185,26-35,Chinese,Dragon Bowl,No,No,NA
+A186,18-25,Seafood,Green Gardens,Yes,Yes,3.7
+A187,26-35,Continental,Spicy Affair,No,No,NA
+A188,55+,Italian,Green Gardens,No,No,NA
+A189,18-25,Chinese,Pasta Palace,Yes,No,NA
+A190,55+,Italian,Dragon Bowl,No,No,NA
+A191,18-25,North Indian,Fishy Feast,No,No,NA
+A192,55+,Chinese,Spicy Affair,Yes,Yes,4.2
+A193,18-25,Chinese,Fishy Feast,No,No,NA
+A194,26-35,North Indian,Green Gardens,Yes,Yes,3.2
+A195,55+,North Indian,Fishy Feast,Yes,Yes,4.3
+A196,36-45,Chinese,Curry Corner,Yes,No,NA
+A197,55+,Seafood,Bella Italia,No,No,NA
+A198,55+,North Indian,Taco Town,No,No,NA
+A199,55+,Mexican,Fishy Feast,No,No,NA
+A200,18-25,Continental,Bella Italia,No,No,NA
+A201,55+,Mexican,Spicy Affair,Yes,Yes,4.2
+A202,36-45,North Indian,Bella Italia,No,No,NA
+A203,46-55,Italian,Dragon Bowl,Yes,Yes,4
+A204,55+,Italian,Elite Eatery,Yes,Yes,3.6
+A205,36-45,Italian,Spicy Affair,No,No,NA
+A206,18-25,Seafood,Green Gardens,Yes,Yes,4.4
+A207,26-35,Chinese,Spicy Affair,No,No,NA
+A208,55+,North Indian,Ocean Bites,Yes,Yes,3.3
+A209,46-55,Italian,Fishy Feast,No,No,NA
+A210,18-25,Continental,Green Gardens,No,No,NA
+A211,36-45,Mexican,Curry Corner,Yes,Yes,3
+A212,55+,Chinese,Pasta Palace,Yes,Yes,4.7
+A213,18-25,Chinese,Curry Corner,No,No,NA
+A214,46-55,Continental,Elite Eatery,No,No,NA
+A215,26-35,Mexican,Green Gardens,No,No,NA
+A216,36-45,North Indian,Dragon Bowl,Yes,Yes,5
+A217,18-25,Italian,Ocean Bites,Yes,Yes,3.7
+A218,46-55,Seafood,Pasta Palace,No,No,NA
+A219,46-55,Continental,Ocean Bites,No,No,NA
+A220,55+,Continental,Taco Town,Yes,No,NA
+A221,26-35,Seafood,Ocean Bites,Yes,Yes,3.9
+A222,36-45,Mexican,Bella Italia,No,No,NA
+A223,18-25,Chinese,Green Gardens,No,No,NA
+A224,46-55,Italian,Ocean Bites,No,No,NA
+A225,46-55,Continental,Pasta Palace,No,No,NA
+A226,55+,North Indian,Fishy Feast,Yes,No,NA
+A227,55+,Chinese,Ocean Bites,No,No,NA
+A228,55+,Chinese,Fishy Feast,No,No,NA
+A229,26-35,Italian,Curry Corner,Yes,Yes,3.8
+A230,26-35,Mexican,Dragon Bowl,Yes,Yes,3.9
+A231,55+,Mexican,Ocean Bites,No,No,NA
+A232,46-55,North Indian,Bella Italia,No,No,NA
+A233,46-55,Seafood,Elite Eatery,Yes,Yes,5
+A234,36-45,Continental,Ocean Bites,Yes,No,NA
+A235,55+,Italian,Curry Corner,Yes,Yes,4.2
+A236,55+,Italian,Curry Corner,Yes,Yes,4.7
+A237,55+,North Indian,Ocean Bites,Yes,Yes,3.8
+A238,36-45,Italian,Pasta Palace,No,No,NA
+A239,36-45,Continental,Spicy Affair,No,No,NA
+A240,26-35,Italian,Fishy Feast,No,No,NA
+A241,55+,Chinese,Bella Italia,Yes,No,NA
+A242,36-45,Continental,Pasta Palace,Yes,Yes,3.2
+A243,55+,Continental,Spicy Affair,Yes,Yes,4
+A244,46-55,Continental,Spicy Affair,Yes,No,NA
+A245,26-35,Italian,Green Gardens,Yes,Yes,3.2
+A246,36-45,Seafood,Bella Italia,Yes,Yes,3.4
+A247,36-45,Mexican,Curry Corner,No,No,NA
+A248,55+,Seafood,Green Gardens,Yes,No,NA
+A249,36-45,Seafood,Fishy Feast,No,No,NA
+A250,55+,Vegan,Ocean Bites,No,No,NA
+A251,46-55,North Indian,Spicy Affair,No,No,NA
+A252,18-25,Italian,Green Gardens,Yes,No,NA
+A253,18-25,Mexican,Elite Eatery,No,No,NA
+A254,36-45,Vegan,Dragon Bowl,Yes,No,NA
+A255,36-45,Chinese,Elite Eatery,No,No,NA
+A256,46-55,Mexican,Ocean Bites,Yes,Yes,3.8
+A257,46-55,Chinese,Curry Corner,No,No,NA
+A258,46-55,North Indian,Elite Eatery,No,No,NA
+A259,46-55,Mexican,Green Gardens,No,No,NA
+A260,18-25,Seafood,Green Gardens,No,No,NA
+A261,36-45,Continental,Fishy Feast,Yes,Yes,3.8
+A262,18-25,Italian,Elite Eatery,No,No,NA
+A263,46-55,Italian,Fishy Feast,Yes,Yes,3.4
+A264,55+,Mexican,Elite Eatery,No,No,NA
+A265,36-45,Mexican,Bella Italia,Yes,Yes,3.3
+A266,26-35,Mexican,Dragon Bowl,Yes,Yes,3.2
+A267,26-35,North Indian,Elite Eatery,Yes,No,NA
+A268,55+,Vegan,Ocean Bites,No,No,NA
+A269,36-45,Continental,Curry Corner,Yes,Yes,3
+A270,55+,Continental,Curry Corner,Yes,No,NA
+A271,36-45,Mexican,Elite Eatery,Yes,No,NA
+A272,26-35,Chinese,Ocean Bites,No,No,NA
+A273,26-35,Chinese,Spicy Affair,Yes,No,NA
+A274,46-55,Vegan,Bella Italia,Yes,Yes,4.2
+A275,55+,Chinese,Elite Eatery,No,No,NA
+A276,18-25,Seafood,Pasta Palace,No,No,NA
+A277,36-45,Chinese,Curry Corner,Yes,No,NA
+A278,26-35,Mexican,Fishy Feast,No,No,NA
+A279,36-45,Seafood,Spicy Affair,No,No,NA
+A280,46-55,Italian,Curry Corner,No,No,NA
+A281,55+,Chinese,Green Gardens,Yes,Yes,3.8
+A282,55+,Vegan,Dragon Bowl,Yes,Yes,4.8
+A283,36-45,Vegan,Dragon Bowl,No,No,NA
+A284,18-25,Continental,Spicy Affair,Yes,Yes,4.8
+A285,46-55,Vegan,Spicy Affair,No,No,NA
+A286,18-25,North Indian,Fishy Feast,Yes,No,NA
+A287,36-45,Seafood,Taco Town,Yes,Yes,4.8
+A288,46-55,Mexican,Pasta Palace,Yes,Yes,4
+A289,26-35,Continental,Taco Town,No,No,NA
+A290,46-55,Seafood,Fishy Feast,Yes,Yes,3.5
+A291,55+,North Indian,Dragon Bowl,Yes,No,NA
+A292,55+,North Indian,Spicy Affair,Yes,Yes,4.3
+A293,55+,Seafood,Taco Town,Yes,Yes,3
+A294,36-45,Seafood,Elite Eatery,No,No,NA
+A295,26-35,Italian,Green Gardens,No,No,NA
+A296,36-45,Continental,Bella Italia,No,No,NA
+A297,46-55,Mexican,Taco Town,No,No,NA
+A298,18-25,Chinese,Taco Town,No,No,NA
+A299,46-55,Vegan,Ocean Bites,No,No,NA
+A300,36-45,Vegan,Spicy Affair,Yes,Yes,3.4
+A301,18-25,Italian,Dragon Bowl,Yes,Yes,3.7
+A302,36-45,North Indian,Dragon Bowl,Yes,Yes,4
+A303,55+,Seafood,Spicy Affair,Yes,Yes,4.7
+A304,26-35,Chinese,Curry Corner,No,No,NA
+A305,26-35,Italian,Spicy Affair,No,No,NA
+A306,46-55,Italian,Pasta Palace,No,No,NA
+A307,26-35,Italian,Dragon Bowl,Yes,Yes,4.2
+A308,55+,Vegan,Ocean Bites,Yes,Yes,4.1
+A309,36-45,Italian,Fishy Feast,No,No,NA
+A310,46-55,Continental,Curry Corner,Yes,Yes,5
+A311,55+,Seafood,Pasta Palace,Yes,No,NA
+A312,55+,Continental,Elite Eatery,No,No,NA
+A313,55+,Mexican,Spicy Affair,Yes,Yes,3.3
+A314,18-25,Italian,Fishy Feast,Yes,No,NA
+A315,46-55,Continental,Taco Town,Yes,No,NA
+A316,46-55,North Indian,Ocean Bites,Yes,Yes,4.7
+A317,55+,Seafood,Taco Town,No,No,NA
+A318,55+,Italian,Green Gardens,Yes,Yes,3.5
+A319,55+,Chinese,Green Gardens,Yes,Yes,3.7
+A320,26-35,Italian,Dragon Bowl,No,No,NA
+A321,18-25,Mexican,Curry Corner,No,No,NA
+A322,46-55,Seafood,Ocean Bites,No,No,NA
+A323,55+,North Indian,Green Gardens,No,No,NA
+A324,46-55,Vegan,Taco Town,No,No,NA
+A325,55+,Continental,Elite Eatery,No,No,NA
+A326,26-35,Chinese,Bella Italia,Yes,Yes,4
+A327,18-25,Mexican,Pasta Palace,Yes,Yes,4.8
+A328,26-35,Chinese,Fishy Feast,Yes,Yes,4.6
+A329,46-55,Italian,Curry Corner,Yes,Yes,4.2
+A330,55+,Chinese,Bella Italia,No,No,NA
+A331,36-45,Italian,Fishy Feast,Yes,Yes,3.9
+A332,26-35,North Indian,Elite Eatery,Yes,Yes,3.7
+A333,26-35,Seafood,Elite Eatery,Yes,No,NA
+A334,46-55,Chinese,Ocean Bites,Yes,No,NA
+A335,18-25,Vegan,Fishy Feast,No,No,NA
+A336,55+,Chinese,Curry Corner,No,No,NA
+A337,46-55,Continental,Green Gardens,Yes,Yes,3.3
+A338,26-35,Seafood,Green Gardens,No,No,NA
+A339,26-35,Chinese,Pasta Palace,Yes,Yes,3.3
+A340,26-35,Seafood,Green Gardens,Yes,Yes,3.8
+A341,46-55,Continental,Dragon Bowl,No,No,NA
+A342,26-35,Chinese,Pasta Palace,No,No,NA
+A343,46-55,Continental,Green Gardens,Yes,Yes,3.3
+A344,26-35,Italian,Ocean Bites,Yes,No,NA
+A345,46-55,Vegan,Taco Town,No,No,NA
+A346,46-55,Chinese,Green Gardens,No,No,NA
+A347,26-35,Italian,Taco Town,Yes,No,NA
+A348,18-25,Continental,Taco Town,Yes,Yes,3.7
+A349,55+,Mexican,Ocean Bites,No,No,NA
+A350,18-25,Chinese,Dragon Bowl,No,No,NA
+A351,36-45,Continental,Dragon Bowl,No,No,NA
+A352,55+,Continental,Pasta Palace,No,No,NA
+A353,26-35,Continental,Taco Town,Yes,Yes,3.8
+A354,26-35,North Indian,Pasta Palace,No,No,NA
+A355,36-45,Chinese,Taco Town,Yes,Yes,4.1
+A356,55+,Vegan,Taco Town,No,No,NA
+A357,18-25,Continental,Fishy Feast,No,No,NA
+A358,46-55,Vegan,Elite Eatery,Yes,Yes,4.2
+A359,18-25,Vegan,Fishy Feast,Yes,Yes,4.2
+A360,55+,Vegan,Fishy Feast,Yes,No,NA
+A361,36-45,Continental,Curry Corner,Yes,Yes,4.3
+A362,26-35,Vegan,Pasta Palace,Yes,Yes,4.6
+A363,46-55,Mexican,Bella Italia,Yes,No,NA
+A364,46-55,Chinese,Pasta Palace,No,No,NA
+A365,26-35,Vegan,Ocean Bites,No,No,NA
+A366,26-35,Italian,Spicy Affair,No,No,NA
+A367,55+,Seafood,Elite Eatery,No,No,NA
+A368,46-55,Continental,Ocean Bites,Yes,No,NA
+A369,36-45,Chinese,Green Gardens,No,No,NA
+A370,18-25,Continental,Ocean Bites,No,No,NA
+A371,26-35,Seafood,Fishy Feast,No,No,NA
+A372,26-35,Mexican,Pasta Palace,Yes,No,NA
+A373,55+,Continental,Bella Italia,No,No,NA
+A374,36-45,Italian,Fishy Feast,Yes,No,NA
+A375,36-45,Seafood,Elite Eatery,Yes,No,NA
+A376,18-25,Italian,Curry Corner,Yes,No,NA
+A377,46-55,Continental,Dragon Bowl,Yes,No,NA
+A378,55+,Italian,Bella Italia,No,No,NA
+A379,18-25,North Indian,Fishy Feast,No,No,NA
+A380,55+,Italian,Elite Eatery,No,No,NA
+A381,18-25,Seafood,Spicy Affair,Yes,Yes,4.2
+A382,36-45,Mexican,Fishy Feast,Yes,Yes,3.1
+A383,18-25,Mexican,Fishy Feast,Yes,No,NA
+A384,55+,Italian,Pasta Palace,No,No,NA
+A385,26-35,Seafood,Elite Eatery,No,No,NA
+A386,26-35,Vegan,Dragon Bowl,Yes,Yes,3.4
+A387,55+,Seafood,Dragon Bowl,No,No,NA
+A388,55+,North Indian,Ocean Bites,No,No,NA
+A389,18-25,Vegan,Fishy Feast,Yes,Yes,4.6
+A390,18-25,Continental,Elite Eatery,Yes,Yes,4.9
+A391,36-45,North Indian,Curry Corner,No,No,NA
+A392,55+,North Indian,Elite Eatery,Yes,Yes,4.3
+A393,55+,Seafood,Taco Town,No,No,NA
+A394,55+,Seafood,Ocean Bites,Yes,No,NA
+A395,18-25,Seafood,Fishy Feast,Yes,Yes,4.6
+A396,46-55,Italian,Green Gardens,Yes,Yes,4.1
+A397,26-35,Seafood,Bella Italia,No,No,NA
+A398,55+,Chinese,Bella Italia,No,No,NA
+A399,18-25,North Indian,Pasta Palace,No,No,NA
+A400,36-45,Chinese,Curry Corner,No,No,NA
+A401,55+,Mexican,Curry Corner,No,No,NA
+A402,26-35,Chinese,Curry Corner,Yes,Yes,4.7
+A403,46-55,Mexican,Pasta Palace,Yes,Yes,3.6
+A404,18-25,Mexican,Spicy Affair,Yes,Yes,3.8
+A405,26-35,Italian,Spicy Affair,Yes,Yes,4.3
+A406,26-35,Chinese,Spicy Affair,Yes,Yes,3.1
+A407,55+,Italian,Bella Italia,Yes,Yes,4.9
+A408,55+,Continental,Green Gardens,No,No,NA
+A409,36-45,Continental,Dragon Bowl,Yes,Yes,3.6
+A410,36-45,Seafood,Curry Corner,No,No,NA
+A411,36-45,Chinese,Bella Italia,No,No,NA
+A412,18-25,Chinese,Fishy Feast,Yes,No,NA
+A413,36-45,Vegan,Bella Italia,Yes,Yes,3.7
+A414,36-45,Mexican,Curry Corner,Yes,Yes,4.8
+A415,55+,Continental,Ocean Bites,Yes,Yes,4.7
+A416,36-45,Seafood,Pasta Palace,No,No,NA
+A417,18-25,North Indian,Taco Town,No,No,NA
+A418,36-45,Mexican,Ocean Bites,Yes,Yes,3.9
+A419,26-35,Vegan,Ocean Bites,Yes,Yes,4.7
+A420,26-35,Mexican,Pasta Palace,No,No,NA
+A421,55+,Mexican,Curry Corner,No,No,NA
+A422,26-35,North Indian,Pasta Palace,No,No,NA
+A423,46-55,Seafood,Curry Corner,Yes,No,NA
+A424,26-35,North Indian,Ocean Bites,Yes,Yes,3.8
+A425,36-45,Chinese,Dragon Bowl,Yes,Yes,4.2
+A426,55+,Vegan,Dragon Bowl,Yes,No,NA
+A427,46-55,Seafood,Ocean Bites,Yes,Yes,4.4
+A428,36-45,Mexican,Dragon Bowl,No,No,NA
+A429,55+,Seafood,Elite Eatery,Yes,Yes,4
+A430,55+,Mexican,Taco Town,No,No,NA
+A431,46-55,Italian,Green Gardens,No,No,NA
+A432,18-25,Mexican,Elite Eatery,No,No,NA
+A433,18-25,Mexican,Taco Town,Yes,Yes,4.4
+A434,26-35,North Indian,Bella Italia,Yes,No,NA
+A435,36-45,Chinese,Bella Italia,Yes,Yes,4.5
+A436,36-45,Continental,Bella Italia,Yes,Yes,4.4
+A437,55+,Chinese,Curry Corner,No,No,NA
+A438,36-45,Mexican,Elite Eatery,Yes,No,NA
+A439,26-35,Chinese,Dragon Bowl,No,No,NA
+A440,55+,Vegan,Elite Eatery,Yes,Yes,4.5
+A441,46-55,Mexican,Green Gardens,Yes,Yes,3.7
+A442,36-45,Seafood,Bella Italia,No,No,NA
+A443,26-35,Seafood,Fishy Feast,No,No,NA
+A444,55+,Mexican,Bella Italia,Yes,Yes,4.1
+A445,18-25,Mexican,Dragon Bowl,No,No,NA
+A446,46-55,Continental,Fishy Feast,No,No,NA
+A447,55+,Chinese,Curry Corner,No,No,NA
+A448,18-25,Chinese,Fishy Feast,No,No,NA
+A449,18-25,Mexican,Bella Italia,No,No,NA
+A450,36-45,Seafood,Green Gardens,Yes,No,NA
+A451,26-35,Italian,Curry Corner,No,No,NA
+A452,55+,Chinese,Spicy Affair,No,No,NA
+A453,55+,Vegan,Elite Eatery,No,No,NA
+A454,36-45,Mexican,Elite Eatery,No,No,NA
+A455,55+,Mexican,Ocean Bites,Yes,Yes,3.2
+A456,18-25,Continental,Elite Eatery,Yes,Yes,3.3
+A457,18-25,Continental,Curry Corner,No,No,NA
+A458,55+,Chinese,Pasta Palace,Yes,Yes,4.8
+A459,26-35,Seafood,Taco Town,Yes,No,NA
+A460,46-55,Vegan,Elite Eatery,Yes,Yes,4.9
+A461,26-35,Mexican,Fishy Feast,Yes,Yes,4.8
+A462,55+,Chinese,Taco Town,No,No,NA
+A463,36-45,Mexican,Spicy Affair,No,No,NA
+A464,46-55,Vegan,Curry Corner,Yes,No,NA
+A465,46-55,Chinese,Green Gardens,No,No,NA
+A466,18-25,Vegan,Curry Corner,No,No,NA
+A467,26-35,Italian,Pasta Palace,Yes,No,NA
+A468,26-35,Seafood,Elite Eatery,No,No,NA
+A469,46-55,Continental,Fishy Feast,No,No,NA
+A470,18-25,Italian,Curry Corner,Yes,Yes,4.5
+A471,26-35,Continental,Pasta Palace,Yes,Yes,4.3
+A472,18-25,Seafood,Green Gardens,Yes,Yes,3.4
+A473,26-35,Chinese,Elite Eatery,Yes,No,NA
+A474,26-35,Continental,Spicy Affair,Yes,Yes,4.1
+A475,18-25,Seafood,Taco Town,No,No,NA
+A476,36-45,North Indian,Taco Town,Yes,Yes,4.4
+A477,26-35,Vegan,Curry Corner,Yes,No,NA
+A478,26-35,North Indian,Green Gardens,No,No,NA
+A479,46-55,Mexican,Bella Italia,No,No,NA
+A480,26-35,Continental,Dragon Bowl,Yes,Yes,4.9
+A481,26-35,North Indian,Fishy Feast,Yes,No,NA
+A482,55+,Vegan,Curry Corner,Yes,No,NA
+A483,55+,Vegan,Elite Eatery,Yes,Yes,4
+A484,55+,Vegan,Taco Town,Yes,Yes,3.5
+A485,46-55,North Indian,Ocean Bites,No,No,NA
+A486,46-55,Continental,Curry Corner,Yes,Yes,3.4
+A487,36-45,Continental,Fishy Feast,Yes,Yes,4.6
+A488,46-55,North Indian,Dragon Bowl,No,No,NA
+A489,46-55,Vegan,Bella Italia,No,No,NA
+A490,55+,Seafood,Dragon Bowl,No,No,NA
+A491,18-25,Seafood,Dragon Bowl,No,No,NA
+A492,18-25,North Indian,Taco Town,No,No,NA
+A493,36-45,Vegan,Green Gardens,Yes,No,NA
+A494,55+,Continental,Curry Corner,Yes,Yes,3.5
+A495,18-25,North Indian,Pasta Palace,Yes,Yes,5
+A496,46-55,Chinese,Fishy Feast,Yes,No,NA
+A497,36-45,Continental,Pasta Palace,No,No,NA
+A498,55+,Vegan,Fishy Feast,No,No,NA
+A499,55+,Vegan,Ocean Bites,No,No,NA
+A500,36-45,Italian,Curry Corner,Yes,Yes,3.8
+A501,26-35,Mexican,Elite Eatery,Yes,Yes,3.1
+A502,18-25,Vegan,Green Gardens,Yes,Yes,3.6
+A503,36-45,Vegan,Taco Town,No,No,NA
+A504,18-25,Continental,Taco Town,Yes,Yes,4.6
+A505,18-25,Mexican,Elite Eatery,No,No,NA
+A506,46-55,Chinese,Ocean Bites,Yes,Yes,4.2
+A507,55+,Continental,Green Gardens,Yes,Yes,3.6
+A508,36-45,Seafood,Pasta Palace,No,No,NA
+A509,36-45,North Indian,Pasta Palace,No,No,NA
+A510,26-35,Continental,Ocean Bites,No,No,NA
+A511,18-25,Continental,Ocean Bites,No,No,NA
+A512,55+,Chinese,Dragon Bowl,No,No,NA
+A513,36-45,Chinese,Ocean Bites,No,No,NA
+A514,55+,Continental,Taco Town,No,No,NA
+A515,26-35,Vegan,Spicy Affair,Yes,No,NA
+A516,55+,Vegan,Pasta Palace,No,No,NA
+A517,36-45,Mexican,Pasta Palace,No,No,NA
+A518,36-45,Italian,Green Gardens,No,No,NA
+A519,26-35,Seafood,Dragon Bowl,Yes,No,NA
+A520,55+,Vegan,Bella Italia,Yes,No,NA
+A521,55+,Chinese,Curry Corner,Yes,Yes,4.3
+A522,18-25,Mexican,Fishy Feast,Yes,Yes,3.1
+A523,18-25,Chinese,Dragon Bowl,No,No,NA
+A524,46-55,Chinese,Green Gardens,Yes,No,NA
+A525,36-45,Chinese,Taco Town,Yes,Yes,5
+A526,55+,Vegan,Pasta Palace,Yes,Yes,3.3
+A527,18-25,Italian,Curry Corner,No,No,NA
+A528,26-35,Italian,Dragon Bowl,No,No,NA
+A529,46-55,Italian,Taco Town,No,No,NA
+A530,26-35,Seafood,Fishy Feast,No,No,NA
+A531,46-55,Chinese,Bella Italia,Yes,Yes,4
+A532,36-45,Mexican,Taco Town,Yes,No,NA
+A533,26-35,Seafood,Dragon Bowl,Yes,Yes,3.7
+A534,26-35,Italian,Taco Town,No,No,NA
+A535,46-55,Continental,Fishy Feast,No,No,NA
+A536,55+,Chinese,Bella Italia,Yes,Yes,3.2
+A537,26-35,Chinese,Green Gardens,Yes,Yes,4.1
+A538,36-45,Seafood,Ocean Bites,Yes,Yes,4.1
+A539,18-25,Chinese,Spicy Affair,Yes,Yes,4.6
+A540,36-45,Continental,Ocean Bites,No,No,NA
+A541,55+,Chinese,Green Gardens,No,No,NA
+A542,18-25,Chinese,Taco Town,Yes,Yes,3.8
+A543,26-35,Continental,Spicy Affair,No,No,NA
+A544,46-55,Vegan,Taco Town,No,No,NA
+A545,36-45,Vegan,Dragon Bowl,Yes,Yes,3.8
+A546,26-35,Continental,Taco Town,Yes,No,NA
+A547,46-55,Continental,Ocean Bites,Yes,Yes,5
+A548,55+,Mexican,Taco Town,Yes,Yes,3.1
+A549,18-25,Continental,Taco Town,Yes,Yes,4.9
+A550,36-45,Italian,Spicy Affair,No,No,NA
+A551,36-45,Italian,Ocean Bites,Yes,Yes,3.1
+A552,26-35,Continental,Dragon Bowl,No,No,NA
+A553,18-25,Seafood,Taco Town,Yes,No,NA
+A554,36-45,Chinese,Bella Italia,No,No,NA
+A555,55+,Italian,Curry Corner,No,No,NA
+A556,36-45,Mexican,Dragon Bowl,No,No,NA
+A557,36-45,Continental,Dragon Bowl,No,No,NA
+A558,46-55,North Indian,Green Gardens,No,No,NA
+A559,46-55,Italian,Green Gardens,No,No,NA
+A560,36-45,Vegan,Green Gardens,Yes,Yes,3.4
+A561,26-35,North Indian,Pasta Palace,Yes,No,NA
+A562,36-45,Mexican,Fishy Feast,No,No,NA
+A563,46-55,Seafood,Taco Town,Yes,No,NA
+A564,55+,Vegan,Ocean Bites,Yes,Yes,4.1
+A565,36-45,Vegan,Ocean Bites,No,No,NA
+A566,36-45,Vegan,Bella Italia,No,No,NA
+A567,18-25,Vegan,Dragon Bowl,Yes,No,NA
+A568,55+,Vegan,Curry Corner,Yes,Yes,4
+A569,26-35,Chinese,Green Gardens,No,No,NA
+A570,36-45,North Indian,Ocean Bites,Yes,Yes,4.3
+A571,36-45,Seafood,Spicy Affair,No,No,NA
+A572,26-35,Vegan,Spicy Affair,No,No,NA
+A573,36-45,Chinese,Green Gardens,No,No,NA
+A574,55+,Continental,Dragon Bowl,No,No,NA
+A575,55+,Chinese,Taco Town,Yes,No,NA
+A576,55+,Seafood,Fishy Feast,Yes,Yes,4.1
+A577,18-25,Mexican,Dragon Bowl,Yes,No,NA
+A578,18-25,Mexican,Bella Italia,No,No,NA
+A579,18-25,North Indian,Pasta Palace,Yes,Yes,3.6
+A580,46-55,Vegan,Curry Corner,No,No,NA
+A581,18-25,Chinese,Ocean Bites,No,No,NA
+A582,55+,Mexican,Pasta Palace,Yes,No,NA
+A583,18-25,North Indian,Dragon Bowl,No,No,NA
+A584,18-25,North Indian,Spicy Affair,No,No,NA
+A585,46-55,Italian,Fishy Feast,Yes,Yes,3.6
+A586,55+,Chinese,Elite Eatery,No,No,NA
+A587,55+,Vegan,Ocean Bites,No,No,NA
+A588,36-45,North Indian,Curry Corner,No,No,NA
+A589,18-25,Continental,Spicy Affair,No,No,NA
+A590,55+,Mexican,Ocean Bites,No,No,NA
+A591,36-45,North Indian,Spicy Affair,Yes,Yes,4.5
+A592,18-25,Chinese,Elite Eatery,Yes,No,NA
+A593,46-55,North Indian,Spicy Affair,Yes,Yes,3.9
+A594,26-35,Vegan,Curry Corner,No,No,NA
+A595,55+,Italian,Curry Corner,No,No,NA
+A596,36-45,Vegan,Pasta Palace,Yes,No,NA
+A597,26-35,North Indian,Dragon Bowl,No,No,NA
+A598,46-55,North Indian,Green Gardens,Yes,Yes,4.3
+A599,36-45,Chinese,Fishy Feast,Yes,Yes,4
+A600,46-55,Seafood,Curry Corner,No,No,NA
+A601,26-35,Mexican,Green Gardens,No,No,NA
+A602,18-25,Italian,Dragon Bowl,No,No,NA
+A603,36-45,Vegan,Green Gardens,Yes,No,NA
+A604,55+,Mexican,Dragon Bowl,Yes,Yes,3.6
+A605,18-25,Continental,Green Gardens,Yes,Yes,3
+A606,55+,Chinese,Taco Town,Yes,Yes,4.3
+A607,18-25,Vegan,Ocean Bites,No,No,NA
+A608,36-45,Vegan,Fishy Feast,No,No,NA
+A609,26-35,Seafood,Ocean Bites,Yes,Yes,3.7
+A610,55+,Continental,Ocean Bites,Yes,Yes,3.7
+A611,26-35,Continental,Taco Town,Yes,Yes,3.7
+A612,36-45,Mexican,Bella Italia,No,No,NA
+A613,18-25,Seafood,Spicy Affair,Yes,Yes,4.7
+A614,36-45,Vegan,Spicy Affair,Yes,Yes,3.1
+A615,18-25,Chinese,Elite Eatery,No,No,NA
+A616,26-35,Continental,Spicy Affair,No,No,NA
+A617,36-45,Continental,Taco Town,No,No,NA
+A618,18-25,Vegan,Spicy Affair,No,No,NA
+A619,26-35,Continental,Spicy Affair,Yes,No,NA
+A620,55+,Continental,Taco Town,Yes,Yes,4.6
+A621,36-45,Seafood,Curry Corner,Yes,Yes,4.2
+A622,46-55,Chinese,Bella Italia,No,No,NA
+A623,26-35,Mexican,Spicy Affair,No,No,NA
+A624,26-35,Vegan,Pasta Palace,No,No,NA
+A625,26-35,North Indian,Fishy Feast,Yes,No,NA
+A626,36-45,Continental,Spicy Affair,Yes,Yes,4.3
+A627,46-55,Mexican,Dragon Bowl,Yes,Yes,3.5
+A628,36-45,Mexican,Pasta Palace,Yes,No,NA
+A629,26-35,Continental,Dragon Bowl,Yes,Yes,4.4
+A630,18-25,Italian,Curry Corner,No,No,NA
+A631,18-25,Italian,Fishy Feast,Yes,No,NA
+A632,26-35,Continental,Curry Corner,Yes,No,NA
+A633,18-25,Continental,Taco Town,No,No,NA
+A634,26-35,Chinese,Green Gardens,Yes,No,NA
+A635,18-25,Vegan,Elite Eatery,No,No,NA
+A636,18-25,Mexican,Taco Town,Yes,Yes,3.5
+A637,55+,Italian,Curry Corner,No,No,NA
+A638,18-25,Vegan,Dragon Bowl,No,No,NA
+A639,55+,Seafood,Ocean Bites,No,No,NA
+A640,36-45,Italian,Fishy Feast,Yes,No,NA
+A641,55+,Italian,Bella Italia,Yes,Yes,3.9
+A642,18-25,Seafood,Spicy Affair,Yes,Yes,3.4
+A643,55+,Mexican,Taco Town,No,No,NA
+A644,18-25,Seafood,Pasta Palace,No,No,NA
+A645,46-55,Chinese,Curry Corner,No,No,NA
+A646,46-55,Vegan,Pasta Palace,No,No,NA
+A647,18-25,Italian,Curry Corner,No,No,NA
+A648,46-55,Chinese,Elite Eatery,No,No,NA
+A649,18-25,North Indian,Pasta Palace,No,No,NA
+A650,26-35,Seafood,Elite Eatery,Yes,Yes,4.6
+A651,18-25,North Indian,Bella Italia,No,No,NA
+A652,18-25,Seafood,Elite Eatery,No,No,NA
+A653,26-35,Seafood,Elite Eatery,No,No,NA
+A654,46-55,Chinese,Curry Corner,No,No,NA
+A655,18-25,North Indian,Taco Town,Yes,Yes,3.8
+A656,46-55,Seafood,Dragon Bowl,Yes,No,NA
+A657,55+,Seafood,Elite Eatery,Yes,Yes,3.9
+A658,26-35,Continental,Taco Town,Yes,No,NA
+A659,18-25,Continental,Curry Corner,No,No,NA
+A660,46-55,Mexican,Ocean Bites,Yes,Yes,3.2
+A661,18-25,Chinese,Bella Italia,No,No,NA
+A662,18-25,Italian,Elite Eatery,Yes,Yes,3.8
+A663,36-45,North Indian,Fishy Feast,No,No,NA
+A664,26-35,Continental,Spicy Affair,No,No,NA
+A665,26-35,North Indian,Ocean Bites,No,No,NA
+A666,46-55,Italian,Taco Town,Yes,No,NA
+A667,36-45,Chinese,Taco Town,No,No,NA
+A668,46-55,Vegan,Fishy Feast,Yes,Yes,3.1
+A669,55+,Mexican,Bella Italia,Yes,Yes,4.3
+A670,26-35,Vegan,Fishy Feast,No,No,NA
+A671,18-25,North Indian,Fishy Feast,Yes,Yes,4.4
+A672,46-55,North Indian,Dragon Bowl,No,No,NA
+A673,18-25,North Indian,Green Gardens,Yes,Yes,3.2
+A674,18-25,Seafood,Elite Eatery,No,No,NA
+A675,18-25,Seafood,Pasta Palace,No,No,NA
+A676,26-35,Vegan,Ocean Bites,No,No,NA
+A677,46-55,Mexican,Curry Corner,Yes,No,NA
+A678,26-35,North Indian,Pasta Palace,Yes,No,NA
+A679,46-55,North Indian,Green Gardens,No,No,NA
+A680,26-35,North Indian,Ocean Bites,Yes,Yes,4.7
+A681,46-55,Vegan,Bella Italia,Yes,No,NA
+A682,36-45,Vegan,Taco Town,No,No,NA
+A683,26-35,Continental,Ocean Bites,No,No,NA
+A684,36-45,Mexican,Pasta Palace,No,No,NA
+A685,18-25,Mexican,Fishy Feast,Yes,Yes,4.5
+A686,26-35,Italian,Fishy Feast,Yes,Yes,4.9
+A687,55+,Italian,Ocean Bites,Yes,No,NA
+A688,18-25,North Indian,Spicy Affair,Yes,Yes,4.1
+A689,55+,North Indian,Green Gardens,Yes,Yes,4.6
+A690,55+,Vegan,Fishy Feast,No,No,NA
+A691,46-55,North Indian,Ocean Bites,No,No,NA
+A692,55+,North Indian,Green Gardens,Yes,No,NA
+A693,26-35,Mexican,Spicy Affair,Yes,No,NA
+A694,26-35,Mexican,Bella Italia,Yes,No,NA
+A695,36-45,Continental,Green Gardens,No,No,NA
+A696,18-25,Continental,Taco Town,No,No,NA
+A697,36-45,Mexican,Curry Corner,No,No,NA
+A698,55+,Continental,Pasta Palace,Yes,Yes,3
+A699,46-55,Seafood,Curry Corner,Yes,Yes,3.4
+A700,26-35,Vegan,Bella Italia,Yes,Yes,3.1
+A701,46-55,Continental,Taco Town,Yes,No,NA
+A702,46-55,North Indian,Dragon Bowl,No,No,NA
+A703,26-35,Vegan,Bella Italia,No,No,NA
+A704,55+,North Indian,Elite Eatery,No,No,NA
+A705,26-35,Vegan,Pasta Palace,No,No,NA
+A706,46-55,Italian,Taco Town,No,No,NA
+A707,55+,Continental,Taco Town,Yes,No,NA
+A708,18-25,Chinese,Dragon Bowl,Yes,Yes,3.4
+A709,36-45,Mexican,Fishy Feast,Yes,Yes,4.6
+A710,46-55,Seafood,Pasta Palace,Yes,No,NA
+A711,18-25,Seafood,Bella Italia,No,No,NA
+A712,46-55,Vegan,Ocean Bites,Yes,Yes,4.2
+A713,36-45,Mexican,Ocean Bites,Yes,Yes,3.5
+A714,26-35,Vegan,Bella Italia,Yes,Yes,4.4
+A715,46-55,Seafood,Dragon Bowl,No,No,NA
+A716,36-45,North Indian,Taco Town,No,No,NA
+A717,55+,Continental,Green Gardens,Yes,Yes,4.3
+A718,26-35,Italian,Taco Town,Yes,Yes,3.5
+A719,26-35,Mexican,Fishy Feast,Yes,Yes,4
+A720,55+,North Indian,Fishy Feast,No,No,NA
+A721,55+,Chinese,Curry Corner,Yes,Yes,3.4
+A722,46-55,Chinese,Green Gardens,Yes,Yes,4.7
+A723,18-25,Vegan,Ocean Bites,Yes,No,NA
+A724,55+,Italian,Curry Corner,Yes,Yes,3
+A725,55+,North Indian,Pasta Palace,No,No,NA
+A726,55+,Seafood,Fishy Feast,No,No,NA
+A727,46-55,Vegan,Bella Italia,Yes,Yes,3.1
+A728,26-35,Mexican,Pasta Palace,No,No,NA
+A729,36-45,Continental,Fishy Feast,Yes,No,NA
+A730,26-35,Vegan,Green Gardens,No,No,NA
+A731,36-45,Mexican,Green Gardens,Yes,Yes,3.3
+A732,36-45,North Indian,Curry Corner,Yes,Yes,3.6
+A733,18-25,Mexican,Pasta Palace,Yes,Yes,4
+A734,26-35,Mexican,Fishy Feast,No,No,NA
+A735,55+,Vegan,Elite Eatery,No,No,NA
+A736,18-25,Vegan,Spicy Affair,Yes,No,NA
+A737,36-45,North Indian,Green Gardens,No,No,NA
+A738,55+,Italian,Elite Eatery,Yes,No,NA
+A739,26-35,Italian,Bella Italia,No,No,NA
+A740,36-45,Chinese,Spicy Affair,No,No,NA
+A741,55+,Italian,Pasta Palace,No,No,NA
+A742,18-25,Vegan,Elite Eatery,Yes,Yes,5
+A743,18-25,Vegan,Curry Corner,No,No,NA
+A744,55+,Chinese,Elite Eatery,No,No,NA
+A745,55+,North Indian,Fishy Feast,No,No,NA
+A746,55+,Italian,Green Gardens,No,No,NA
+A747,55+,North Indian,Dragon Bowl,No,No,NA
+A748,36-45,Continental,Pasta Palace,No,No,NA
+A749,18-25,Italian,Pasta Palace,No,No,NA
+A750,46-55,Mexican,Taco Town,No,No,NA
+A751,36-45,Vegan,Green Gardens,Yes,No,NA
+A752,26-35,Italian,Bella Italia,No,No,NA
+A753,18-25,Chinese,Pasta Palace,No,No,NA
+A754,46-55,Chinese,Green Gardens,Yes,Yes,3.8
+A755,46-55,Vegan,Spicy Affair,No,No,NA
+A756,36-45,Seafood,Pasta Palace,No,No,NA
+A757,36-45,Seafood,Elite Eatery,Yes,Yes,4.3
+A758,26-35,Italian,Elite Eatery,No,No,NA
+A759,46-55,Mexican,Fishy Feast,No,No,NA
+A760,55+,Chinese,Spicy Affair,No,No,NA
+A761,55+,Vegan,Dragon Bowl,Yes,Yes,4.1
+A762,36-45,Mexican,Taco Town,No,No,NA
+A763,18-25,Mexican,Dragon Bowl,No,No,NA
+A764,46-55,Mexican,Taco Town,No,No,NA
+A765,18-25,Vegan,Bella Italia,No,No,NA
+A766,46-55,Vegan,Ocean Bites,Yes,Yes,4.9
+A767,26-35,Mexican,Elite Eatery,Yes,No,NA
+A768,36-45,Seafood,Dragon Bowl,No,No,NA
+A769,36-45,Continental,Curry Corner,No,No,NA
+A770,46-55,Mexican,Green Gardens,No,No,NA
+A771,55+,Italian,Pasta Palace,No,No,NA
+A772,46-55,Italian,Green Gardens,Yes,Yes,4.6
+A773,55+,North Indian,Bella Italia,No,No,NA
+A774,55+,Seafood,Spicy Affair,Yes,Yes,3.8
+A775,36-45,North Indian,Pasta Palace,No,No,NA
+A776,26-35,Chinese,Green Gardens,Yes,Yes,3.4
+A777,26-35,Chinese,Bella Italia,No,No,NA
+A778,26-35,Italian,Green Gardens,Yes,Yes,4.1
+A779,46-55,Vegan,Spicy Affair,No,No,NA
+A780,36-45,Seafood,Pasta Palace,No,No,NA
+A781,46-55,Italian,Green Gardens,Yes,Yes,3.2
+A782,46-55,Chinese,Pasta Palace,Yes,Yes,4.7
+A783,26-35,Continental,Ocean Bites,No,No,NA
+A784,18-25,North Indian,Dragon Bowl,Yes,No,NA
+A785,26-35,Continental,Spicy Affair,No,No,NA
+A786,36-45,North Indian,Ocean Bites,No,No,NA
+A787,55+,Italian,Bella Italia,Yes,Yes,3
+A788,46-55,Chinese,Ocean Bites,Yes,Yes,4
+A789,46-55,Seafood,Ocean Bites,No,No,NA
+A790,18-25,Chinese,Dragon Bowl,No,No,NA
+A791,26-35,Vegan,Ocean Bites,Yes,Yes,4.2
+A792,26-35,Continental,Pasta Palace,No,No,NA
+A793,26-35,Vegan,Elite Eatery,No,No,NA
+A794,26-35,Continental,Pasta Palace,Yes,Yes,3.9
+A795,18-25,Chinese,Bella Italia,Yes,Yes,4.6
+A796,18-25,Chinese,Taco Town,No,No,NA
+A797,36-45,North Indian,Elite Eatery,Yes,Yes,3.1
+A798,46-55,Seafood,Dragon Bowl,No,No,NA
+A799,18-25,Chinese,Ocean Bites,No,No,NA
+A800,36-45,Continental,Dragon Bowl,No,No,NA
+A801,26-35,Mexican,Fishy Feast,Yes,No,NA
+A802,46-55,Chinese,Spicy Affair,Yes,Yes,4.2
+A803,46-55,Seafood,Bella Italia,Yes,No,NA
+A804,46-55,Mexican,Spicy Affair,Yes,Yes,4.3
+A805,55+,Seafood,Dragon Bowl,Yes,Yes,4.1
+A806,46-55,Mexican,Fishy Feast,Yes,Yes,4.8
+A807,46-55,Italian,Green Gardens,No,No,NA
+A808,26-35,Vegan,Taco Town,Yes,Yes,3.5
+A809,55+,Seafood,Green Gardens,No,No,NA
+A810,26-35,Continental,Spicy Affair,Yes,Yes,3.1
+A811,36-45,Vegan,Elite Eatery,Yes,Yes,4.6
+A812,36-45,Italian,Spicy Affair,Yes,No,NA
+A813,26-35,Italian,Green Gardens,No,No,NA
+A814,18-25,Vegan,Taco Town,Yes,Yes,4.1
+A815,36-45,Mexican,Pasta Palace,Yes,Yes,3.2
+A816,46-55,Mexican,Fishy Feast,Yes,Yes,3.7
+A817,36-45,Italian,Ocean Bites,No,No,NA
+A818,55+,Seafood,Green Gardens,Yes,Yes,3.3
+A819,26-35,Seafood,Fishy Feast,Yes,No,NA
+A820,26-35,Seafood,Elite Eatery,Yes,Yes,4
+A821,55+,Chinese,Spicy Affair,No,No,NA
+A822,26-35,Vegan,Elite Eatery,Yes,Yes,4
+A823,18-25,Continental,Spicy Affair,No,No,NA
+A824,18-25,Seafood,Green Gardens,Yes,No,NA
+A825,55+,Continental,Curry Corner,No,No,NA
+A826,18-25,Continental,Ocean Bites,Yes,No,NA
+A827,46-55,Seafood,Elite Eatery,Yes,Yes,4.7
+A828,46-55,Vegan,Dragon Bowl,Yes,No,NA
+A829,46-55,Mexican,Bella Italia,Yes,Yes,3.4
+A830,55+,Italian,Green Gardens,No,No,NA
+A831,18-25,Chinese,Taco Town,No,No,NA
+A832,26-35,Vegan,Pasta Palace,No,No,NA
+A833,26-35,Seafood,Taco Town,No,No,NA
+A834,55+,Chinese,Pasta Palace,No,No,NA
+A835,46-55,Seafood,Elite Eatery,No,No,NA
+A836,18-25,Mexican,Green Gardens,No,No,NA
+A837,18-25,Mexican,Elite Eatery,No,No,NA
+A838,55+,North Indian,Dragon Bowl,No,No,NA
+A839,26-35,Seafood,Curry Corner,Yes,No,NA
+A840,36-45,Seafood,Ocean Bites,No,No,NA
+A841,18-25,Continental,Fishy Feast,No,No,NA
+A842,55+,Chinese,Ocean Bites,No,No,NA
+A843,46-55,Chinese,Ocean Bites,Yes,Yes,4.3
+A844,55+,North Indian,Spicy Affair,No,No,NA
+A845,36-45,Seafood,Spicy Affair,Yes,Yes,3.6
+A846,18-25,Vegan,Taco Town,No,No,NA
+A847,36-45,Italian,Ocean Bites,No,No,NA
+A848,55+,North Indian,Dragon Bowl,No,No,NA
+A849,46-55,North Indian,Elite Eatery,No,No,NA
+A850,18-25,North Indian,Fishy Feast,Yes,Yes,5
+A851,26-35,Italian,Taco Town,No,No,NA
+A852,46-55,North Indian,Spicy Affair,No,No,NA
+A853,36-45,Mexican,Elite Eatery,No,No,NA
+A854,18-25,Mexican,Spicy Affair,Yes,Yes,3.1
+A855,26-35,North Indian,Dragon Bowl,No,No,NA
+A856,26-35,Mexican,Ocean Bites,Yes,Yes,3.8
+A857,18-25,Seafood,Fishy Feast,Yes,Yes,3
+A858,36-45,North Indian,Dragon Bowl,Yes,Yes,3.5
+A859,26-35,Seafood,Curry Corner,Yes,Yes,3.6
+A860,55+,Mexican,Spicy Affair,Yes,No,NA
+A861,26-35,Mexican,Spicy Affair,Yes,No,NA
+A862,46-55,North Indian,Fishy Feast,No,No,NA
+A863,55+,Seafood,Ocean Bites,No,No,NA
+A864,46-55,Vegan,Spicy Affair,Yes,No,NA
+A865,36-45,Mexican,Curry Corner,Yes,Yes,3.6
+A866,36-45,North Indian,Ocean Bites,No,No,NA
+A867,26-35,Continental,Elite Eatery,No,No,NA
+A868,18-25,Seafood,Bella Italia,Yes,No,NA
+A869,36-45,Mexican,Bella Italia,No,No,NA
+A870,55+,Seafood,Pasta Palace,Yes,Yes,3.2
+A871,26-35,Seafood,Elite Eatery,Yes,No,NA
+A872,26-35,Continental,Fishy Feast,No,No,NA
+A873,55+,Italian,Bella Italia,Yes,Yes,3.8
+A874,55+,North Indian,Fishy Feast,No,No,NA
+A875,18-25,North Indian,Spicy Affair,No,No,NA
+A876,36-45,Continental,Green Gardens,No,No,NA
+A877,55+,Chinese,Ocean Bites,No,No,NA
+A878,26-35,Vegan,Pasta Palace,Yes,Yes,4.5
+A879,46-55,Continental,Curry Corner,Yes,Yes,4.5
+A880,26-35,Italian,Curry Corner,Yes,No,NA
+A881,55+,Chinese,Dragon Bowl,Yes,Yes,4.6
+A882,55+,Chinese,Dragon Bowl,No,No,NA
+A883,55+,Seafood,Dragon Bowl,Yes,Yes,4.9
+A884,36-45,Chinese,Green Gardens,No,No,NA
+A885,55+,Seafood,Bella Italia,No,No,NA
+A886,55+,Vegan,Taco Town,No,No,NA
+A887,55+,Vegan,Green Gardens,Yes,Yes,4.3
+A888,36-45,North Indian,Pasta Palace,No,No,NA
+A889,46-55,Italian,Elite Eatery,No,No,NA
+A890,36-45,Mexican,Bella Italia,Yes,Yes,3.5
+A891,55+,Italian,Dragon Bowl,No,No,NA
+A892,46-55,North Indian,Dragon Bowl,No,No,NA
+A893,18-25,Italian,Curry Corner,Yes,Yes,4.2
+A894,36-45,Seafood,Green Gardens,No,No,NA
+A895,18-25,Vegan,Taco Town,Yes,Yes,3.8
+A896,36-45,Continental,Dragon Bowl,No,No,NA
+A897,55+,North Indian,Dragon Bowl,No,No,NA
+A898,36-45,Italian,Pasta Palace,No,No,NA
+A899,55+,Vegan,Taco Town,Yes,Yes,3.1
+A900,18-25,Vegan,Curry Corner,No,No,NA
+A901,26-35,North Indian,Dragon Bowl,Yes,Yes,4
+A902,46-55,Mexican,Fishy Feast,No,No,NA
+A903,46-55,Seafood,Pasta Palace,No,No,NA
+A904,26-35,Chinese,Taco Town,Yes,Yes,4.7
+A905,36-45,Chinese,Bella Italia,No,No,NA
+A906,55+,Italian,Dragon Bowl,No,No,NA
+A907,26-35,Vegan,Dragon Bowl,No,No,NA
+A908,55+,Italian,Bella Italia,Yes,Yes,3
+A909,36-45,Seafood,Dragon Bowl,Yes,Yes,4.9
+A910,36-45,Continental,Dragon Bowl,Yes,No,NA
+A911,26-35,Vegan,Bella Italia,Yes,Yes,3.9
+A912,55+,Seafood,Pasta Palace,Yes,No,NA
+A913,46-55,North Indian,Ocean Bites,Yes,No,NA
+A914,18-25,Seafood,Pasta Palace,No,No,NA
+A915,55+,Mexican,Fishy Feast,No,No,NA
+A916,18-25,Italian,Elite Eatery,Yes,Yes,4.4
+A917,46-55,North Indian,Green Gardens,Yes,Yes,3.7
+A918,36-45,Continental,Green Gardens,Yes,Yes,3.4
+A919,46-55,Continental,Pasta Palace,Yes,Yes,3.2
+A920,55+,Chinese,Fishy Feast,No,No,NA
+A921,18-25,Chinese,Elite Eatery,No,No,NA
+A922,18-25,Italian,Spicy Affair,No,No,NA
+A923,18-25,Chinese,Spicy Affair,No,No,NA
+A924,26-35,North Indian,Green Gardens,No,No,NA
+A925,18-25,Vegan,Elite Eatery,Yes,No,NA
+A926,55+,North Indian,Pasta Palace,Yes,No,NA
+A927,26-35,Continental,Taco Town,Yes,Yes,3.3
+A928,26-35,Vegan,Spicy Affair,No,No,NA
+A929,26-35,Vegan,Ocean Bites,Yes,Yes,4.7
+A930,36-45,Vegan,Elite Eatery,No,No,NA
+A931,26-35,Vegan,Fishy Feast,No,No,NA
+A932,36-45,Mexican,Dragon Bowl,Yes,Yes,3.9
+A933,55+,Continental,Fishy Feast,No,No,NA
+A934,55+,Mexican,Elite Eatery,No,No,NA
+A935,46-55,Vegan,Ocean Bites,Yes,Yes,4.8
+A936,55+,North Indian,Bella Italia,Yes,No,NA
+A937,18-25,Chinese,Curry Corner,Yes,No,NA
+A938,26-35,Vegan,Ocean Bites,Yes,Yes,4.1
+A939,36-45,Vegan,Dragon Bowl,Yes,Yes,3
+A940,46-55,Seafood,Dragon Bowl,Yes,Yes,3.6
+A941,46-55,Chinese,Taco Town,Yes,Yes,4.9
+A942,55+,Seafood,Spicy Affair,Yes,Yes,4.2
+A943,18-25,North Indian,Taco Town,No,No,NA
+A944,18-25,Seafood,Spicy Affair,No,No,NA
+A945,55+,Vegan,Dragon Bowl,No,No,NA
+A946,18-25,Mexican,Taco Town,No,No,NA
+A947,55+,Continental,Spicy Affair,No,No,NA
+A948,36-45,Chinese,Curry Corner,Yes,Yes,4.4
+A949,18-25,Continental,Curry Corner,Yes,Yes,4.4
+A950,55+,Continental,Ocean Bites,No,No,NA
+A951,18-25,Seafood,Curry Corner,Yes,Yes,4.9
+A952,36-45,Vegan,Fishy Feast,No,No,NA
+A953,26-35,Mexican,Fishy Feast,No,No,NA
+A954,18-25,Mexican,Elite Eatery,Yes,Yes,4.9
+A955,46-55,Seafood,Elite Eatery,Yes,No,NA
+A956,36-45,Italian,Curry Corner,No,No,NA
+A957,55+,Continental,Curry Corner,Yes,Yes,4.4
+A958,26-35,Seafood,Dragon Bowl,No,No,NA
+A959,46-55,Vegan,Fishy Feast,Yes,No,NA
+A960,46-55,Chinese,Bella Italia,No,No,NA
+A961,55+,Vegan,Pasta Palace,Yes,Yes,4.3
+A962,46-55,Chinese,Green Gardens,Yes,No,NA
+A963,46-55,Continental,Curry Corner,Yes,Yes,3.6
+A964,46-55,Italian,Elite Eatery,Yes,No,NA
+A965,18-25,North Indian,Ocean Bites,Yes,No,NA
+A966,46-55,North Indian,Elite Eatery,Yes,No,NA
+A967,26-35,Seafood,Pasta Palace,No,No,NA
+A968,46-55,Chinese,Pasta Palace,Yes,No,NA
+A969,26-35,Seafood,Green Gardens,No,No,NA
+A970,46-55,Continental,Pasta Palace,No,No,NA
+A971,55+,Seafood,Pasta Palace,Yes,Yes,3.3
+A972,18-25,Chinese,Spicy Affair,Yes,No,NA
+A973,46-55,Vegan,Bella Italia,No,No,NA
+A974,18-25,Mexican,Elite Eatery,No,No,NA
+A975,55+,Seafood,Elite Eatery,Yes,No,NA
+A976,46-55,Vegan,Bella Italia,Yes,No,NA
+A977,36-45,Seafood,Bella Italia,No,No,NA
+A978,18-25,Vegan,Curry Corner,No,No,NA
+A979,36-45,Continental,Curry Corner,No,No,NA
+A980,18-25,Vegan,Elite Eatery,No,No,NA
+A981,55+,Seafood,Spicy Affair,No,No,NA
+A982,18-25,Mexican,Ocean Bites,No,No,NA
+A983,55+,North Indian,Dragon Bowl,No,No,NA
+A984,36-45,North Indian,Elite Eatery,Yes,Yes,3.8
+A985,46-55,Italian,Pasta Palace,Yes,Yes,3.2
+A986,26-35,North Indian,Elite Eatery,No,No,NA
+A987,36-45,Mexican,Pasta Palace,No,No,NA
+A988,36-45,North Indian,Curry Corner,No,No,NA
+A989,36-45,Mexican,Bella Italia,No,No,NA
+A990,55+,Seafood,Dragon Bowl,Yes,Yes,3.9
+A991,36-45,Continental,Ocean Bites,Yes,No,NA
+A992,36-45,Seafood,Curry Corner,No,No,NA
+A993,55+,Chinese,Fishy Feast,Yes,Yes,3.2
+A994,36-45,Seafood,Fishy Feast,No,No,NA
+A995,36-45,Seafood,Elite Eatery,No,No,NA
+A996,18-25,Italian,Curry Corner,Yes,Yes,4.1
+A997,46-55,North Indian,Fishy Feast,No,No,NA
+A998,46-55,Continental,Fishy Feast,Yes,Yes,3.2
+A999,46-55,North Indian,Bella Italia,No,No,NA
+A1000,18-25,Italian,Spicy Affair,Yes,No,NA
